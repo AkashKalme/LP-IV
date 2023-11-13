@@ -1,0 +1,3 @@
+An information retrieval (IR) system is a set of algorithms that facilitate the relevance of displayed 
+documents to searched queries. In simple words, it works to sort and rank documents based on the queries of a 
+user. There is uniformity with respect to the query and text in the document to enable document accessibility.

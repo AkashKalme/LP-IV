@@ -1,0 +1,13 @@
+[2023-10-25 12:30:45] INFO: Application started.
+[2023-10-25 12:31:15] WARNING: Disk space is running low (15% free).
+[2023-10-25 12:32:00] ERROR: Failed to connect to the database.
+[2023-10-25 12:32:10] INFO: User 'john_doe' logged in.
+[2023-10-25 12:33:20] WARNING: CPU temperature is above the safe threshold (75°C).
+[2023-10-25 12:34:00] ERROR: Application crashed unexpectedly. Restarting...
+[2023-10-25 12:35:10] INFO: Data backup completed successfully.
+[2023-10-25 12:36:30] ERROR: Unauthorized access attempt from IP 192.168.1.100.
+[2023-10-25 12:37:15] WARNING: Network latency is high (average ping time: 150ms).
+[2023-10-25 12:38:00] ERROR: Server overload. Increased response times.
+[2023-10-25 12:39:25] INFO: Sent email notification to admin.
+[2023-10-25 12:40:05] INFO: Application update available. Please install.
+[2023-10-25 12:41:10] WARNING: Unusual database activity detected.

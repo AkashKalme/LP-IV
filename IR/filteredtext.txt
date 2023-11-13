@@ -1,0 +1,4 @@
+ Information Retrieval (IR) defined software program deals organization, storage, retrieval, evaluation 
+ information document repositories, particularly textual information. Information Retrieval activity 
+ obtaining material usually documented unstructured nature i.e. usually text satisfies information need 
+ within large collections stored computers. For example, Information Retrieval user enters query system. 
